@@ -70,6 +70,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px 0;
+    background: rgb(252, 225, 191);
  }
 
  .logo {
@@ -77,6 +78,7 @@
     color: var(--text-color);
     font-weight: 400;
     text-decoration: none;
+    margin-left: 10px;
  }
 
  #cart-icon {
